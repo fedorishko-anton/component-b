@@ -1,0 +1,9 @@
+{
+    "name": "fedorishko-anton/component-b",
+    "autoload": {
+        "psr-4": {
+            "Alva\\ComponentB\\": "src/"
+        }
+    },
+    "require": {}
+}
