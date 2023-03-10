@@ -5,5 +5,12 @@
             "Alva\\ComponentB\\": "src/"
         }
     },
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Alva\\ComponentB\\ComponentBServiceProvider"
+            ]
+        }
+    }
 }
